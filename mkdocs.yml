@@ -1,0 +1,14 @@
+site_name: Abel Tharakan | Engineering Portfolio
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - toc.follow
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
