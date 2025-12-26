@@ -1,13 +1,23 @@
-# Abel Tharakan — Engineering Portfolio
+# Abel Tharakan
+## Engineering Portfolio
 
-Aerospace Engineering, Georgia Tech  
-Graduating **May 2026**
+*Aerospace Engineering — Georgia Tech*  
+**Graduating May 2026**
 
-## Interests
+---
+
+### Focus Areas
 - Testing and validation
 - Manufacturing and integration
 - Experimental and lab-based engineering
-- Systems-level aerospace problems
+- Systems-level aerospace design
 
-## About this portfolio
-This site documents selected academic and personal engineering projects, focusing on hands-on design, analysis, and experimental work.
+---
+
+### Featured Projects
+- **Complete Aircraft Design (AE 4311)** — full aircraft from requirements to feasibility
+- **Afterburning Turbofan (AE 4451)** — component-level propulsion modeling
+- **Controls Labs (AE 4610)** — hardware-based closed-loop systems
+- **Experimental Methods (AE 3610 / AE 2610)** — wind tunnels, DIC, structural testing
+
+👉 Use the **Projects** tab to explore individual work.
