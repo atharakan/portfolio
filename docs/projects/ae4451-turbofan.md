@@ -79,14 +79,6 @@ This single hardware configuration satisfies both takeoff and cruise requirement
 
 ---
 
-## Media
-Recommended to include:
-- Engine flowpath / station numbering diagram  
-- One optimization convergence plot  
-- Performance comparison table (efficiency vs thrust)
-
----
-
 ## Links
 - **Final Technical Report (PDF):** Available upon request  
 - **MATLAB Code:** Available upon request
