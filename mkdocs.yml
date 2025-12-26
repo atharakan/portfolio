@@ -31,14 +31,14 @@ plugins:
 nav:
   - Home: index.md
   - Projects:
-      - Aircraft Design (AE 4311): projects/ae4311-aircraft-design.md
-      - Afterburning Turbofan (AE 4451): projects/ae4451-turbofan.md
-      - Controls Labs (AE 4610): projects/ae4610-controls-labs.md
-      - Experimental Methods (AE 3610): projects/ae3610-experimental-methods.md
-      - Labs + Drone Noise (AE 2610): projects/ae2610-labs-and-drone-noise.md
+      - Aircraft Design: projects/ae4311-aircraft-design.md
+      - Afterburning Turbofan Design: projects/ae4451-turbofan.md
+      - Controls Labs: projects/ae4610-controls-labs.md
+      - Experimental Methods: projects/ae3610-experimental-methods.md
+      - Labs + Drone Noise Project: projects/ae2610-labs-and-drone-noise.md
       - HPR Level 1 Rocket: projects/hpr-level1-rocket.md
       - Homemade Jet Engine: projects/homemade-jet-engine.md
-      - Spider Walking Robot (ME 1670): projects/me1670-spider-robot.md
+      - Spider Walking Robot: projects/me1670-spider-robot.md
   - About / Contact: about.md
 
 extra_css:
