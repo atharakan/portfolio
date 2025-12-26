@@ -40,3 +40,6 @@ nav:
       - Homemade Jet Engine: projects/homemade-jet-engine.md
       - Spider Walking Robot (ME 1670): projects/me1670-spider-robot.md
   - About / Contact: about.md
+
+extra_css:
+  - stylesheets/extra.css
