@@ -1,5 +1,4 @@
-# Complete Aircraft Design (AE 4311)
-
+# Complete Aircraft Design
 **Course:** AE 4311 – Aircraft Design  
 **Term:** Fall 2025  
 **Project Type:** Team-based, semester-long design  
