@@ -10,7 +10,7 @@ Full-time roles starting **May 2026**, especially involving:
 - Experimental analysis and data reduction
 - Systems-level aerospace work
 
-## Links
-- LinkedIn: (add)
-- GitHub: (add)
-- Email: (add)
+## Info
+- LinkedIn: www.linkedin.com/in/abeltharakan
+- GitHub: https://atharakan.github.io/portfolio
+- Email: abeltharakan23@gmail.com
