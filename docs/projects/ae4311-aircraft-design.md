@@ -56,18 +56,6 @@ Designed a complete preliminary aircraft configuration starting from mission req
 - Aircraft comparison and engineering references  
 - LaTeX (final report)
 
----
-
-## Media
-Recommended to include:
-- Constraint diagram  
-- CG excursion plot  
-- Final configuration / three-view  
-
-Example image links (add your actual files to `docs/assets/images/`):
-- `![Constraint diagram](../assets/images/ae4311_constraint.png)`
-- `![CG excursion](../assets/images/ae4311_cg_excursion.png)`
-- `![Three-view](../assets/images/ae4311_threeview.png)`
 
 ---
 
