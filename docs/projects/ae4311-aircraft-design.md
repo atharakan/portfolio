@@ -98,5 +98,4 @@ Design feasibility was evaluated by comparison against existing aircraft in a si
 
 ---
 
-## Media
-*(A*
+
