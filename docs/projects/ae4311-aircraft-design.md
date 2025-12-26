@@ -1,100 +1,75 @@
-# Complete Aircraft Design
+# Complete Aircraft Design (AE 4311)
+
 **Course:** AE 4311 – Aircraft Design  
 **Term:** Fall 2025  
-**Project Type:** Team-based, semester-long design  
-**Role:** Individual contributor within a design team
+**Project Type:** Semester-long team design  
+**Aircraft:** Six-passenger single-engine turboprop (low-wing, T-tail)
 
 ---
 
 ## Overview
-Designed a complete aircraft from initial mission requirements through configuration selection, sizing, performance analysis, stability evaluation, and overall feasibility. The project emphasized systems-level trade studies, engineering judgment, and realistic constraints informed by existing aircraft.
+Designed a complete preliminary aircraft configuration starting from mission requirements and progressing through configuration selection, sizing, performance analysis, weight and balance, and stability evaluation. The design emphasizes realistic constraints, feasibility, and comparison to existing turboprop aircraft.
 
 ---
 
-## Mission Definition
-The aircraft was designed to satisfy a defined operational mission including:
-- Payload and range requirements
-- Cruise speed and altitude targets
-- Takeoff and landing field length constraints
-- Regulatory and operational considerations
-
-Mission requirements were translated into quantitative design targets used throughout sizing and trade studies.
-
----
-
-## Configuration Selection
-Multiple aircraft configurations were evaluated using structured trade studies and weighted decision matrices. Key considerations included performance, stability, manufacturability, and operational practicality.
-
-**Final configuration:**
-- Low-wing layout  
-- Single-engine turboprop propulsion  
-- T-tail configuration  
-
-This configuration provided a balanced solution across aerodynamic efficiency, stability, and structural integration.
+## Final Aircraft Summary
+- **Passengers:** 6 + 1 pilot  
+- **Maximum Takeoff Weight:** ~9,700 lb  
+- **Cruise Speed:** 180 kt at 20,000 ft  
+- **Design Range:** 1,750 nmi + 45-min reserve  
+- **Wing Area:** 346.4 ft²  
+- **Wing Loading:** ~28 lb/ft²  
+- **Power Loading:** ~0.078 hp/lbf  
+- **Configuration:** Low-wing, single-engine turboprop, T-tail  
+- **Fuselage Length:** 36 ft  
 
 ---
 
-## Sizing and Performance Analysis
-Aircraft sizing was performed using constraint analysis to determine feasible wing loading and power loading combinations.
-
-Key analyses included:
-- Takeoff and landing performance constraints
-- Climb and cruise performance requirements
-- Stall speed limits
-- Range and endurance feasibility
-
-The final design point was selected to satisfy all constraints with appropriate margins.
-
-*(Insert constraint diagram here)*
+## My Contributions
+- Aircraft sizing using constraint analysis  
+- Performance estimation (takeoff, climb, cruise, stall, range)  
+- Component-level weight estimation  
+- CG excursion and static margin analysis  
+- Support on configuration trade studies and final documentation  
 
 ---
 
-## Weight and Balance
-A component-level weight estimation was conducted to generate a complete mass breakdown. Center of gravity (CG) locations were estimated for major components and evaluated across multiple loading scenarios.
-
-Analyses performed:
-- Total weight buildup and mass fractions
-- CG excursion across loading cases
-- Static margin and neutral point estimation
-
-The final design maintained acceptable stability margins throughout the operational envelope.
-
-*(Insert CG excursion plot relative to mean geometric chord here)*
+## Key Analyses
+- Constraint sizing used to select wing and power loading  
+- Weight breakdown and CG excursion across loading cases  
+- Neutral point estimation using tail volume and lift-curve slopes  
+- Verified positive static margin across all loading conditions  
 
 ---
 
-## Stability and Feasibility
-Longitudinal static stability was assessed using neutral point estimation and static margin calculations. The design was verified to be stable across expected loading conditions while meeting mission performance requirements.
-
-Design feasibility was evaluated by comparison against existing aircraft in a similar class to ensure realistic sizing and performance.
-
----
-
-## Key Deliverables
-- Mission profile and requirement definition
-- Configuration trade study and justification
-- Constraint diagram with selected design point
-- Performance estimates (stall, cruise, climb, range)
-- Weight breakdown and CG excursion analysis
-- Stability margin and neutral point estimation
-- Final aircraft specifications and configuration layout
+## Results
+- Mission and performance requirements satisfied  
+- CG envelope remains forward of the neutral point for all cases  
+- Configuration balances aerodynamic efficiency, stability, and practicality  
+- Weight class and configuration are consistent with comparable GA turboprop programs  
 
 ---
 
-## Tools Used
-- MATLAB (performance and sizing calculations)
-- Spreadsheet-based trade studies and weight estimation
-- Engineering references and aircraft comparison data
-- LaTeX for formal report documentation
+## Tools
+- MATLAB  
+- Spreadsheet-based trade studies  
+- Aircraft comparison and engineering references  
+- LaTeX (final report)
 
 ---
 
-## What This Project Demonstrates
-- Systems-level aircraft design thinking
-- Ability to balance competing performance and stability requirements
-- Use of engineering judgment alongside analytical methods
-- Experience producing industry-style design deliverables
+## Media
+Recommended to include:
+- Constraint diagram  
+- CG excursion plot  
+- Final configuration / three-view  
+
+Example image links (add your actual files to `docs/assets/images/`):
+- `![Constraint diagram](../assets/images/ae4311_constraint.png)`
+- `![CG excursion](../assets/images/ae4311_cg_excursion.png)`
+- `![Three-view](../assets/images/ae4311_threeview.png)`
 
 ---
 
-
+## Links
+- **Final Design Report (PDF):** Available upon request
