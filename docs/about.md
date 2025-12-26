@@ -11,6 +11,9 @@ Full-time roles starting **May 2026**, especially involving:
 - Systems-level aerospace work
 
 ## Info
+- Phone: 470-263-1575
+- Email: abeltharakan23@gmail.com
 - LinkedIn: www.linkedin.com/in/abeltharakan
 - GitHub: https://atharakan.github.io/portfolio
-- Email: abeltharakan23@gmail.com
+
+
