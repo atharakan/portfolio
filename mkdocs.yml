@@ -12,17 +12,18 @@ theme:
     - content.code.copy
  palette:
   - scheme: default
-    primary: indigo
-    accent: cyan
+    primary: cyan
+    accent: indigo
     toggle:
       icon: material/weather-night
       name: Switch to dark mode
   - scheme: slate
-    primary: indigo
-    accent: cyan
+    primary: cyan
+    accent: indigo
     toggle:
       icon: material/weather-sunny
       name: Switch to light mode
+
 
 
 
